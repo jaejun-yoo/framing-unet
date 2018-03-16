@@ -1,0 +1,3 @@
+Fig. 4. Simplified U-Net architecture and its variants. (a) Standard U-Net, (b) dual frame U-Net, and (c) tight frame U-Net with concatenation. Dashed lines
+refer to the skipped-connection, square-box within Φ, Φ^T and Tk, Tk^T correspond to the sub-band filters. The next level U-Net units are recursively added
+to the low-frequency band signals.
