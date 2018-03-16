@@ -6,3 +6,5 @@ Since Keras does not allow me to change the batch dimension, I had to use Conv3D
 paper link: [Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT](https://arxiv.org/abs/1708.08333)
 
 I followed the architecture in Fig. 4 of the paper.
+![Fig.4.](./asset/framing-unet-arch.PNG)
+
